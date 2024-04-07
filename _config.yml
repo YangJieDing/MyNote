@@ -10,7 +10,9 @@
 # gitbook_version:  3.2.3
 
 url:              'https://yangjieding.github.io'
-# baseurl:          '/MyNote'
+# baseurl 配置后在markdown中插入文件图片等资源 会以baseUrl为根目录， 比如/MyNote/assets/xx.png 使用相对路径 ../assets/xx.png 转化为
+# 绝对路径后 就是 
+baseurl:          '/MyNote'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
