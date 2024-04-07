@@ -20,3 +20,10 @@ layout: post
 ![osi七层模型2]({{ '/assets/2023-04-12-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B2.png' | prepend: site.baseurl }})
 ```
 
+
+
+# 更新
+
+在 `style.css`中搜索：`book-summary ul.summary li a,.book-summary ul.summary li span{display:block;padding`
+
+将`padding:10px 15px`改为`padding:5px 15px`
