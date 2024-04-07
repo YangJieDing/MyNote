@@ -10,7 +10,7 @@
 # gitbook_version:  3.2.3
 
 url:              'https://yangjieding.github.io'
-baseurl:          '/MyNote'
+# baseurl:          '/MyNote'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
